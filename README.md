@@ -1,2 +1,2 @@
-# timepass-project
+# time-project
 my third reposi changes
